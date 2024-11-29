@@ -1,0 +1,101 @@
+nombre_imagen,"Coordenadas (left, upper, right, lower)",nombre_pez,Ecosistema,valor,tipo_de_pez,descripcion
+fragmento_0_0.png,"(0, 0, 16, 16)",Pez Loro,Pez de Océano,28,Exótico,Colorido y sociable
+fragmento_0_1.png,"(16, 0, 32, 16)",Caballa,Pez de Océano,65,Raro,Ágil y resbaloso
+fragmento_0_2.png,"(32, 0, 48, 16)",Pez Payaso,Pez de Océano,34,Común,De gran tamaño
+fragmento_0_3.png,"(48, 0, 64, 16)",Solla,Pez de Océano,41,Raro,Rápido y activo
+fragmento_0_4.png,"(64, 0, 80, 16)",Anguila Plateada,Pez de Océano,98,Exótico,Colorido y sociable
+fragmento_0_5.png,"(80, 0, 96, 16)",Caballito de Mar,Pez de Océano,85,Común,Hermoso y popular
+fragmento_0_6.png,"(96, 0, 112, 16)",Pez León,Pez de Océano,26,Común,Hermoso y popular
+fragmento_0_7.png,"(112, 0, 128, 16)",Pez Vaca,Pez de Océano,87,Legendario,Colorido y sociable
+fragmento_0_8.png,"(128, 0, 144, 16)",Atún,Pez de Océano,64,Legendario,Rápido y activo
+fragmento_0_9.png,"(144, 0, 160, 16)",Pez Mariposa Rayado,Pez de Océano,88,Común,Hermoso y popular
+fragmento_1_0.png,"(0, 16, 16, 32)",Robalo Atlántico,Pez de Océano,50,Común,Colorido y sociable
+fragmento_1_1.png,"(16, 16, 32, 32)",Cirujano Azul,Pez de Océano,10,Legendario,Rápido y activo
+fragmento_1_2.png,"(32, 16, 48, 32)",Abadejo,Pez de Océano,25,Raro,Hermoso y popular
+fragmento_1_3.png,"(48, 16, 64, 32)",Labrus de Ballan,Pez de Océano,38,Legendario,Hermoso y popular
+fragmento_1_4.png,"(64, 16, 80, 32)",Pez Araña,Pez de Océano,54,Común,Hermoso y popular
+fragmento_1_5.png,"(80, 16, 96, 32)",Besugo,Pez de Océano,100,Común,De gran tamaño
+fragmento_1_6.png,"(96, 16, 112, 32)",Pez Globo,Pez de Océano,22,Común,De gran tamaño
+fragmento_1_7.png,"(112, 16, 128, 32)",Bacalao,Pez de Océano,93,Legendario,Ágil y resbaloso
+fragmento_1_8.png,"(128, 16, 144, 32)",Platija,Pez de Océano,57,Exótico,Rápido y activo
+fragmento_1_9.png,"(144, 16, 160, 32)",Lenguado,Pez de Océano,46,Legendario,Colorido y sociable
+fragmento_2_0.png,"(0, 32, 16, 48)",Merlán,Pez de Océano,90,Raro,Ágil y resbaloso
+fragmento_2_1.png,"(16, 32, 32, 48)",Hipogloso,Pez de Océano,70,Raro,Rápido y activo
+fragmento_2_2.png,"(32, 32, 48, 48)",Arenque,Pez de Océano,29,Común,Ágil y resbaloso
+fragmento_2_3.png,"(48, 32, 64, 48)",Mantarraya,Pez de Océano,71,Legendario,Hermoso y popular
+fragmento_2_4.png,"(64, 32, 80, 48)",Pez Lobo,Pez de Océano,12,Legendario,Colorido y sociable
+fragmento_2_5.png,"(80, 32, 96, 48)",Pez Hueso,Pez de Océano,96,Común,Hermoso y popular
+fragmento_2_6.png,"(96, 32, 112, 48)",Cobia,Pez de Océano,53,Común,Rápido y activo
+fragmento_2_7.png,"(112, 32, 128, 48)",Tambor Negro,Pez de Océano,19,Exótico,Rápido y activo
+fragmento_2_8.png,"(128, 32, 144, 48)",Pez Gota,Pez de Océano,38,Raro,Colorido y sociable
+fragmento_2_9.png,"(144, 32, 160, 48)",Pámpano,Pez de Océano,39,Exótico,Hermoso y popular
+fragmento_3_0.png,"(0, 48, 16, 64)",Sardina,Pez de Océano,62,Común,De gran tamaño
+fragmento_3_1.png,"(16, 48, 32, 64)",Pez Ángel,Pez de Océano,85,Exótico,Rápido y activo
+fragmento_3_2.png,"(32, 48, 48, 64)",Pargo Rojo,Pez de Océano,36,Exótico,Hermoso y popular
+fragmento_3_3.png,"(48, 48, 64, 64)",Salmón,Pez de Océano,89,Raro,Hermoso y popular
+fragmento_3_4.png,"(64, 48, 80, 64)",Pez Pescador,Pez de Océano,53,Común,Hermoso y popular
+fragmento_3_5.png,"(80, 48, 96, 64)",Camarón,Criaturas del Océano,86,Exótico,Colorido y sociable
+fragmento_3_6.png,"(96, 48, 112, 64)",Calamar,Criaturas del Océano,23,Legendario,Rápido y activo
+fragmento_3_7.png,"(112, 48, 128, 64)",Pulpo Dumbo,Criaturas del Océano,58,Raro,Hermoso y popular
+fragmento_3_8.png,"(128, 48, 144, 64)",Cangrejo,Criaturas del Océano,21,Legendario,Colorido y sociable
+fragmento_3_9.png,"(144, 48, 160, 64)",Langosta,Criaturas del Océano,10,Raro,Hermoso y popular
+fragmento_4_0.png,"(0, 64, 16, 80)",Ángel Marino,Criaturas del Océano,50,Raro,Colorido y sociable
+fragmento_4_1.png,"(16, 64, 32, 80)",Tortuga,Criaturas del Océano,72,Legendario,Ágil y resbaloso
+fragmento_4_2.png,"(32, 64, 48, 80)",Pulpo,Criaturas del Océano,37,Común,Ágil y resbaloso
+fragmento_4_3.png,"(48, 64, 64, 80)",Fantasía Rosa,Criaturas del Océano,56,Legendario,Ágil y resbaloso
+fragmento_4_4.png,"(64, 64, 80, 80)",Araña de Mar,Criaturas del Océano,84,Exótico,Colorido y sociable
+fragmento_4_5.png,"(80, 64, 96, 80)",Medusa,Criaturas del Océano,29,Raro,Rápido y activo
+fragmento_4_6.png,"(96, 64, 112, 80)",Pepino de Mar,Criaturas del Océano,90,Exótico,De gran tamaño
+fragmento_4_7.png,"(112, 64, 128, 80)",Gusano Árbol de Navidad,Criaturas del Océano,57,Común,Hermoso y popular
+fragmento_4_8.png,"(128, 64, 144, 80)",Pluma de Mar,Criaturas del Océano,14,Legendario,Colorido y sociable
+fragmento_4_9.png,"(144, 64, 160, 80)",Erizo de Mar,Criaturas del Océano,30,Legendario,De gran tamaño
+fragmento_5_0.png,"(0, 80, 16, 96)",Langosta Azul,Criaturas del Océano,33,Exótico,Hermoso y popular
+fragmento_5_1.png,"(16, 80, 32, 96)",Caracol Marino,Criaturas del Océano,38,Común,Rápido y activo
+fragmento_5_2.png,"(32, 80, 48, 96)",Carpa Cruciana,Pez de Río,17,Legendario,Colorido y sociable
+fragmento_5_3.png,"(48, 80, 64, 96)",Pez Sol Azul,Pez de Río,82,Común,Hermoso y popular
+fragmento_5_4.png,"(64, 80, 80, 96)",Tilapia,Pez de Río,69,Legendario,Colorido y sociable
+fragmento_5_5.png,"(80, 80, 96, 96)",Eperlano,Pez de Río,43,Legendario,Rápido y activo
+fragmento_5_6.png,"(96, 80, 112, 96)",Trucha,Pez de Río,29,Exótico,De gran tamaño
+fragmento_5_7.png,"(112, 80, 128, 96)",Betta,Pez de Río,42,Legendario,Ágil y resbaloso
+fragmento_5_8.png,"(128, 80, 144, 96)",Trucha Arcoíris,Pez de Río,78,Exótico,De gran tamaño
+fragmento_5_9.png,"(144, 80, 160, 96)",Perca Amarilla,Pez de Río,26,Común,De gran tamaño
+fragmento_6_0.png,"(0, 96, 16, 112)",Salvelino,Pez de Río,34,Exótico,Ágil y resbaloso
+fragmento_6_1.png,"(16, 96, 32, 112)",Guppy,Pez de Río,94,Común,Colorido y sociable
+fragmento_6_2.png,"(32, 96, 48, 112)",Rey Salmón,Pez de Río,97,Común,Colorido y sociable
+fragmento_6_3.png,"(48, 96, 64, 112)",Neón Tetra,Pez de Río,58,Exótico,Rápido y activo
+fragmento_6_4.png,"(64, 96, 80, 112)",Piraña,Pez de Río,11,Raro,De gran tamaño
+fragmento_6_5.png,"(80, 96, 96, 112)",Amarguillo,Pez de Río,53,Exótico,Ágil y resbaloso
+fragmento_6_6.png,"(96, 96, 112, 112)",Róbalo Negro,Pez de Río,66,Común,Colorido y sociable
+fragmento_6_7.png,"(112, 96, 128, 112)",Anguila,Pez de Río,93,Común,Hermoso y popular
+fragmento_6_8.png,"(128, 96, 144, 112)",Cacho,Pez de Río,19,Común,Ágil y resbaloso
+fragmento_6_9.png,"(144, 96, 160, 112)",Perca,Pez de Río,46,Común,Ágil y resbaloso
+fragmento_7_0.png,"(0, 112, 16, 128)",Mojarra,Pez de Río,44,Legendario,Colorido y sociable
+fragmento_7_1.png,"(16, 112, 32, 128)",Bagre,Pez de Río,59,Exótico,Ágil y resbaloso
+fragmento_7_2.png,"(32, 112, 48, 128)",Lucioperca,Pez de Río,36,Exótico,Colorido y sociable
+fragmento_7_3.png,"(48, 112, 64, 128)",Dace,Pez de Río,12,Legendario,Colorido y sociable
+fragmento_7_4.png,"(64, 112, 80, 128)",Locha,Criaturas de Río,87,Común,Rápido y activo
+fragmento_7_5.png,"(80, 112, 96, 128)",Róbalo de Boca Grande,Criaturas de Río,83,Legendario,Hermoso y popular
+fragmento_7_6.png,"(96, 112, 112, 128)",Escarabajo de Agua,Criaturas de Río,11,Común,Hermoso y popular
+fragmento_7_7.png,"(112, 112, 128, 128)",Cangrejo de Río,Criaturas de Río,14,Raro,Rápido y activo
+fragmento_7_8.png,"(128, 112, 144, 128)",Serpiente,Pez de Estanque,43,Legendario,Rápido y activo
+fragmento_7_9.png,"(144, 112, 160, 128)",Caracol de Agua Dulce,Pez de Estanque,87,Exótico,Ágil y resbaloso
+fragmento_8_0.png,"(0, 128, 16, 144)",Pez Dorado,Pez de Estanque,65,Común,Rápido y activo
+fragmento_8_1.png,"(16, 128, 32, 144)",Koi,Pez de Estanque,97,Legendario,Ágil y resbaloso
+fragmento_8_2.png,"(32, 128, 48, 144)",Carpa Herbívora,Pez de Estanque,78,Exótico,Hermoso y popular
+fragmento_8_3.png,"(48, 128, 64, 144)",Cabeza Gorda,Pez de Estanque,37,Raro,De gran tamaño
+fragmento_8_4.png,"(64, 128, 80, 144)",Pez Sol Verde,Pez de Estanque,66,Exótico,Rápido y activo
+fragmento_8_5.png,"(80, 128, 96, 144)",Plecostomus,Pez de Estanque,85,Legendario,Rápido y activo
+fragmento_8_6.png,"(96, 128, 112, 144)",Sardinita Roja,Pez de Estanque,56,Legendario,Ágil y resbaloso
+fragmento_8_7.png,"(112, 128, 128, 144)",Pez Semilla de Calabaza,Pez de Estanque,31,Común,Colorido y sociable
+fragmento_8_8.png,"(128, 128, 144, 144)",Gobio,Pez de Estanque,99,Exótico,Colorido y sociable
+fragmento_8_9.png,"(144, 128, 160, 144)",Shubunkin,Pez de Estanque,82,Común,Rápido y activo
+fragmento_9_0.png,"(0, 144, 16, 160)",Pez Dorado de Fantasía,Pez de Estanque,87,Común,Colorido y sociable
+fragmento_9_1.png,"(16, 144, 32, 160)",Tiburón de Banda Alta,Pez de Estanque,19,Común,Ágil y resbaloso
+fragmento_9_2.png,"(32, 144, 48, 160)",Pez Paraíso,Pez de Estanque,65,Exótico,Hermoso y popular
+fragmento_9_3.png,"(48, 144, 64, 160)",Alosa Menor,Pez de Estanque,17,Raro,Colorido y sociable
+fragmento_9_4.png,"(64, 144, 80, 160)",Roseta,Pez de Estanque,81,Común,Ágil y resbaloso
+fragmento_9_5.png,"(80, 144, 96, 160)",Tenca Dorada,Criaturas de Estanque,30,Común,De gran tamaño
+fragmento_9_6.png,"(96, 144, 112, 160)",Molly,Criaturas de Estanque,32,Legendario,Ágil y resbaloso
+fragmento_9_7.png,"(112, 144, 128, 160)",Rana,Criaturas de Estanque,61,Exótico,Rápido y activo
+fragmento_9_8.png,"(128, 144, 144, 160)",Renacuajo,Criaturas de Estanque,66,Raro,Rápido y activo
+fragmento_9_9.png,"(144, 144, 160, 160)",Axolote,Criaturas de Estanque,10,Raro,De gran tamaño
