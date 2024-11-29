@@ -557,8 +557,7 @@ class Game:
                     self.gesture_frames.append(frame.copy())
                     middle_index = (self.gesture_frames_count - 1) // 2
                     self.middle_frame = self.gesture_frames[middle_index]
-                    print(f"Frame actual: {self.gesture_frames_count}, Frame medio: {middle_index + 1}")
-                    
+
                 self.hold_timer += 1
 
             else:

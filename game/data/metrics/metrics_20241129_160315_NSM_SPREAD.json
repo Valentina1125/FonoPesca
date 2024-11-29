@@ -1,0 +1,34 @@
+{
+  "session_id": "20241129_160315",
+  "gesto": "NSM_SPREAD",
+  "intentos": [
+    {
+      "intento": 1,
+      "CE_right": 29.5,
+      "CE_left": 25.62,
+      "SA_right": 109.27,
+      "SA_left": 112.55,
+      "tipo_lanzamiento": "short"
+    }
+  ],
+  "resumen": {
+    "promedios": {
+      "CE_right": 29.5,
+      "CE_left": 25.62,
+      "SA_right": 109.27,
+      "SA_left": 112.55
+    },
+    "maximos": {
+      "CE_right": 29.5,
+      "CE_left": 25.62,
+      "SA_right": 109.27,
+      "SA_left": 112.55
+    }
+  },
+  "distribucion_lanzamientos": {
+    "corto": 0,
+    "medio": 0,
+    "largo": 0,
+    "total": 1
+  }
+}
