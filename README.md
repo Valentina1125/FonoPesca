@@ -12,6 +12,9 @@ FacialTherapyGame is a thesis project that integrates computer vision and gaming
 - Provides quantitative metrics and feedback based on Emotrics' facial measurement algorithms
 - Aims to improve therapy adherence by making exercises more engaging and motivating
 
+## Video
+https://youtu.be/TmzDFr6875A
+
 ## Features
 
 - Real-time facial gesture detection and classification using CNN
